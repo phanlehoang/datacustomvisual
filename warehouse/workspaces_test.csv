@@ -1,0 +1,12 @@
+﻿id,name,type,state,isOnDedicatedCapacity,capacityId,defaultDatasetStorageFormat
+d7122ad9-7504-4c14-9606-6ca09f77f7d5,test_msfabric,Workspace,Active,TRUE,436220EE-C2FC-43CF-895E-E18F6FA0AB74,Small
+9faed897-5ed9-4eb8-a97a-1f222ca704d6,Microsoft Project Web App,Workspace,Active,FALSE,None,None
+efbb639b-e6a2-4e74-804e-91efe189839d,Sage 300 Financials by FreshBI,Workspace,Active,FALSE,None,None
+596b3a81-3325-4d52-bda2-4ccb707d101e,Sales and Marketing sample,Workspace,Active,FALSE,None,None
+8a8ee650-6988-464e-b3bc-8704dc6464f2,Microsoft 365 Usage Analytics,Workspace,Active,FALSE,None,None
+570a372d-8b1f-4e32-8bc2-0d6ca3b3daee,Chuỗi hội thảo Power BI,Workspace,Active,FALSE,None,None
+ac95ad74-b111-4238-b392-a21fe8a6bf2e,Hạt Nhân Hệ Sinh Thái,Workspace,Active,FALSE,None,None
+e5b796d6-306d-4f34-a027-7fa654b72c22,PersonalWorkspace f1775b62-6027-45aa-b377-a251766c0dab,Personal,Active,FALSE,None,None
+8d333e80-d85b-449a-926d-ee655d7ec3b8,KPI,Workspace,Active,FALSE,None,None
+a8cb042e-2810-4d80-9def-2e596508c2d1,PersonalWorkspace dcb041a2-f2cb-4c75-a085-1ff54ebd7d60,Personal,Active,FALSE,None,None
+a1c329df-f797-4413-a9b3-09c93634ea80,test,Workspace,Active,FALSE,None,None

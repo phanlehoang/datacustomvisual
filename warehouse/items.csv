@@ -1,12 +1,100 @@
-﻿id,name,type,state,isOnDedicatedCapacity,capacityId,defaultDatasetStorageFormat
-d7122ad9-7504-4c14-9606-6ca09f77f7d5,test_msfabric,Workspace,Active,True,436220EE-C2FC-43CF-895E-E18F6FA0AB74,Small
-9faed897-5ed9-4eb8-a97a-1f222ca704d6,Microsoft Project Web App,Workspace,Active,False,,
-efbb639b-e6a2-4e74-804e-91efe189839d,Sage 300 Financials by FreshBI,Workspace,Active,False,,
-596b3a81-3325-4d52-bda2-4ccb707d101e,Sales and Marketing sample,Workspace,Active,False,,
-8a8ee650-6988-464e-b3bc-8704dc6464f2,Microsoft 365 Usage Analytics,Workspace,Active,False,,
-570a372d-8b1f-4e32-8bc2-0d6ca3b3daee,Chuỗi hội thảo Power BI,Workspace,Active,False,,
-ac95ad74-b111-4238-b392-a21fe8a6bf2e,Hạt Nhân Hệ Sinh Thái,Workspace,Active,False,,
-e5b796d6-306d-4f34-a027-7fa654b72c22,PersonalWorkspace f1775b62-6027-45aa-b377-a251766c0dab,Personal,Active,False,,
-8d333e80-d85b-449a-926d-ee655d7ec3b8,KPI,Workspace,Active,False,,
-a8cb042e-2810-4d80-9def-2e596508c2d1,PersonalWorkspace dcb041a2-f2cb-4c75-a085-1ff54ebd7d60,Personal,Active,False,,
-a1c329df-f797-4413-a9b3-09c93634ea80,test,Workspace,Active,False,,
+﻿id,name,description,state,lastUpdatedDate,modifiedBy,createdBy,modifiedById,createdById
+7c1c2f31-ff8b-4762-af66-5086cda58f4a,teststreaming,teststreaming,Active,2023-06-22T08:47:43.9584545,vyvt@vpi.pvn.vn,vyvt@vpi.pvn.vn,a921224f-4eb9-42ec-b938-7f6f8d84c68a,a921224f-4eb9-42ec-b938-7f6f8d84c68a
+4f81e502-263c-420f-b33d-bb1c54129456,DataflowsStagingLakehouse,,Active,2023-06-22T08:47:06.532548,vyvt@vpi.pvn.vn,vyvt@vpi.pvn.vn,a921224f-4eb9-42ec-b938-7f6f8d84c68a,a921224f-4eb9-42ec-b938-7f6f8d84c68a
+6a909fa4-678d-40d1-8d0e-56d907222798,vyvt,,Active,2023-06-22T08:47:23.4876329,vyvt@vpi.pvn.vn,vyvt@vpi.pvn.vn,a921224f-4eb9-42ec-b938-7f6f8d84c68a,a921224f-4eb9-42ec-b938-7f6f8d84c68a
+d4f86b73-b224-4d23-b9e4-23df8edeceb8,Test_Import_table,,Active,2023-06-22T08:48:04.7730001,nhantv@vpi.pvn.vn,nhantv@vpi.pvn.vn,9f02275c-f6e3-40ed-8b70-ce95775af5f9,9f02275c-f6e3-40ed-8b70-ce95775af5f9
+a83c8eb3-5477-4f69-9746-f2ef28edbdd6,Tesing_experiment,,Active,2023-06-22T08:47:09.986157,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+284617f0-b10d-4858-ad3e-9163d4cf2dd8,lr-experiment-run-9660,,Active,2023-06-22T08:47:16.5337934,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+8aed3033-7140-4190-8d38-f7e1e8254970,lr-experiment-run-2215,,Active,2023-06-22T08:47:40.3331566,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+b9e95151-42bf-4943-91a3-98b8e5000d80,test,,Active,2023-06-22T08:47:54.677982,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+8ca91575-1655-49c3-ad2e-930f700dadb8,pipeline1,,Active,2023-06-22T08:47:28.4101265,,vyvt@vpi.pvn.vn,,a921224f-4eb9-42ec-b938-7f6f8d84c68a
+d269d3d9-3326-4c4c-ac80-d499bf410485,pipeline2,,Active,2023-06-22T08:47:47.5680942,,vyvt@vpi.pvn.vn,,a921224f-4eb9-42ec-b938-7f6f8d84c68a
+3d81af50-c0d6-43fa-8dbe-9ba5de459348,Testing_load_data,Spark job definition,Active,2023-06-22T08:48:01.4601349,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+74b5b778-eeb4-4dee-a67a-cfb54b327540,lr-experiment-run-9660,New notebook,Active,2023-06-22T08:47:13.3928215,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+0431dffe-d2d2-44b3-86f1-f5897aaedd46,Notebook_Colab,New notebook,Active,2023-06-22T08:47:19.8466301,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+62ab083d-bde5-44ea-bfd2-01cd11c18310,Notebook 1,New notebook,Active,2023-06-22T08:47:32.066769,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+2ac8aa6d-d5e9-43ff-849b-23cb0689939f,Fracture_App,New notebook,Active,2023-06-22T08:47:36.7390886,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+f824e35d-2245-4f48-a188-69e09a603e95,Notebook 2,New notebook,Active,2023-06-22T08:47:51.349617,,tuan.a.nguyen@vpi.pvn.vn,,1523bdb0-3c6e-4364-b6bc-3c8b239ffa34
+6c946843-c349-42fc-9e63-eeb41d7cf356,Get data from Sharepoint and convert to Lakehouse table,New notebook,Active,2023-06-26T09:41:14.8477074,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+186c66df-23b5-48fd-ab93-95c00d9d2bf7,Notebook 3,New notebook,Active,2023-06-22T08:48:08.2109049,,nhantv@vpi.pvn.vn,,9f02275c-f6e3-40ed-8b70-ce95775af5f9
+517cb1e9-d24d-4cf0-862c-26d3135391a4,Running_West_Khausedai,New notebook,Active,2023-06-22T08:48:11.5236963,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+084a45db-4f5f-4630-970b-658787e772cd,Notebook 4,New notebook,Active,2023-06-22T08:48:15.0553805,,tuan.a.nguyen@vpi.pvn.vn,,1523bdb0-3c6e-4364-b6bc-3c8b239ffa34
+84468d97-6b23-4fc4-8f9a-e5679a839f13,Notebook 5,New notebook,Active,2023-06-22T08:48:18.5088853,,tuan.a.nguyen@vpi.pvn.vn,,1523bdb0-3c6e-4364-b6bc-3c8b239ffa34
+daae5305-77a3-4448-a59a-4cb8390d2170,Notebook 6,New notebook,Active,2023-06-26T08:47:34.9921994,,tuan.a.nguyen@vpi.pvn.vn,,1523bdb0-3c6e-4364-b6bc-3c8b239ffa34
+df98ad4d-13df-4d86-bb3f-1c03043a9aa6,Untitled Scorecard,,,,,sonnt.epc@vpi.pvn.vn,,1520f02a-374d-4a06-af02-8e61fa5e62bf
+b4027a9a-8854-4463-941a-29bbf88bec71,Test pipe,,,,,nhantv@vpi.pvn.vn,,9f02275c-f6e3-40ed-8b70-ce95775af5f9
+5e2ad0a6-f403-46d7-803c-fc083d90e933,Report,,,,,nhantv@vpi.pvn.vn,,9f02275c-f6e3-40ed-8b70-ce95775af5f9
+b553717e-1f85-459d-a26f-27ff2c950610,123,,,,,nhantv@vpi.pvn.vn,,9f02275c-f6e3-40ed-8b70-ce95775af5f9
+f42f7069-f1e8-4069-b645-69472bbce020,Extract,,,,,nhantv@vpi.pvn.vn,,9f02275c-f6e3-40ed-8b70-ce95775af5f9
+1e724212-671f-40eb-969d-50e01a6f9341,,,,,,,,
+6a3c7b72-0dd3-4a13-a0ff-b103a85d9b09,,,,,,,,
+ea33f2dc-f907-404f-b225-9de5cc7a135e,DataflowsStagingLakehouse,,,,,,,
+6154b914-7aff-427d-9941-728c1eea5897,DataflowsStagingWarehouse,,,,,,,
+3b2b2576-3362-43eb-9c8f-f3d5ef7151db,testdatamart,,,,,,,
+e94e17d0-835a-4f76-ba96-7e8eb1e5ec12,sonntwh,,,,,,,
+628421cc-04b6-4b78-8516-40bd383119ff,vyvt,,,,,,,
+3cdb388f-4087-402d-990f-9dc095217062,Untitled Scorecard,,,,,,,
+f4ae0b5c-417b-41c0-933f-558f91e25047,Test_Import_table,,,,,,,
+ad231b49-3632-4539-8edd-41ca18005f81,Report,,,,,,,
+cb340e98-bd07-4249-9170-ed64750ff36e,Extract,,,,,,,
+04ed6a20-ebe9-4242-8991-beaaa17a49d5,1bc,,,,,,,
+,Dataflow 5,,,,,,,
+,Dataflow 6,,,,,,,
+e95bc371-add5-4064-b528-b74a4f69100e,1bc,,,,,,,
+1aeee373-63c6-4624-85be-a4047ebcc8d3,testdatamart,,,,,,,
+d13aa55e-0dbc-4571-9b4d-25b19a4a65dd,DataflowsStagingLakehouse,,,,,,,
+807e5022-e8bb-470b-b513-85701c483cf4,DataflowsStagingWarehouse,,,,,,,
+e70896c0-8ac2-4cc2-8e0a-71e2f145f4e8,sonntwh,,,,,,,
+7bb852f5-5f6f-4ab6-a293-e21d441cdd6f,Test_Import_table,,,,,,,
+2e768db7-b555-474e-8efc-7a7d03fe7c40,vyvt,,,,,,,
+08cea20e-19df-4789-863b-f25cc6d01680,Microsoft Project Web App,,,,,huydd@vpi.pvn.vn,,c0ff077a-880b-403c-be9b-cc6d73233c4a
+ef165e2b-3846-40ca-96ef-b29c351ebe87,[App] Microsoft Project Web App,,,,,huydd@vpi.pvn.vn,,c0ff077a-880b-403c-be9b-cc6d73233c4a
+d34e1371-8b07-4ae4-a8be-f5df2bbe9c79,Corona DB,,,,,huydd@vpi.pvn.vn,,c0ff077a-880b-403c-be9b-cc6d73233c4a
+806dc3ff-2961-489a-82ed-d5cfefdac881,Report Usage Metrics Report,,,,,huydd@vpi.pvn.vn,,c0ff077a-880b-403c-be9b-cc6d73233c4a
+0303f11d-302b-4568-9194-c205fecb7177,Dashboard Usage Metrics Report,,,,,huydd@vpi.pvn.vn,,c0ff077a-880b-403c-be9b-cc6d73233c4a
+b4ae85cc-bb6c-40a0-9582-730ea12f89e7,,,,,,,,
+d46a4822-939d-4b59-aefc-d89973ab97cf,Microsoft Project Web App,,,,,,,
+a0c39dc5-ce43-4ede-876c-fdccb1e9be04,Corona DB,,,,,,,
+96565403-6229-496a-ae2a-061b6b814c05,Report Usage Metrics Model,,,,,,,
+4529b6ca-b5f3-4d3b-9916-e795e4cd19a1,Dashboard Usage Metrics Model,,,,,,,
+e614deff-9acf-471a-abfd-9206758e03b7,Sage 300 Data Model,,,,,huydd@vpi.pvn.vn,,c0ff077a-880b-403c-be9b-cc6d73233c4a
+0b54a4f2-ec10-4fae-952d-b4ed196b38da,[App] Sage 300 Data Model,,,,,huydd@vpi.pvn.vn,,c0ff077a-880b-403c-be9b-cc6d73233c4a
+d8ea9ebf-cff3-41a2-b7ff-19cfc26ceda9,Sage 300 Data Model,,,,,,,
+bb3d0dfb-0d05-4a11-8f65-ac09659c3e5a,Sales and Marketing Sample PBIX,,,,,,,
+afb53c68-a43f-4681-8c19-611814f50c13,[App] Sales and Marketing Sample PBIX,,,,,,,
+413eb9ca-5aec-4008-838e-c7ab7ea1a109,,,,,,,,
+213696a0-1609-4fa9-85c1-4f795809e8cb,,,,,,,,
+a8174d50-8008-4d67-bceb-fc654329a3d0,Sales and Marketing Sample PBIX,,,,,,,
+f0c8b5d8-8296-4519-a8e2-8b6cc58b15cb,Microsoft 365 Usage Analytics,,,,,tungtk@vpi.pvn.vn,,98595c62-7bfe-4525-9cc8-53044b826035
+7cef32c7-269c-425d-8819-38845bdb07ed,[App] Microsoft 365 Usage Analytics,,,,,tungtk@vpi.pvn.vn,,98595c62-7bfe-4525-9cc8-53044b826035
+9e1b4899-4f41-42c6-a324-3a973f133bb9,Microsoft 365 Usage Analytics,,,,,,,
+648083c6-9778-4e43-818e-12da0ea550af,HT5 10-12-20,,,,,tridm@vpi.pvn.vn,,1fb120ce-7497-4ada-a81e-06ce54cb69d0
+1049a4c2-b32e-4545-909f-8ead10137d6f,Report Usage Metrics Report,,,,,tridm@vpi.pvn.vn,,1fb120ce-7497-4ada-a81e-06ce54cb69d0
+98afbd8c-d649-4d52-a699-e41925a755d0,Dashboard Usage Metrics Report,,,,,tridm@vpi.pvn.vn,,1fb120ce-7497-4ada-a81e-06ce54cb69d0
+bd6aa253-8231-4595-aba2-e28bf9d2fdbb,,,,,,,,
+f535e632-3a8a-4b96-82f9-26b833bec95d,HT5 10-12-20,,,,,,,
+09924e35-59e9-4c31-a6a8-247b1f302643,Report Usage Metrics Model,,,,,,,
+ec318e85-b692-436f-a011-f2a8ae282cf4,Dashboard Usage Metrics Model,,,,,,,
+ad758a8e-88f3-4706-b820-7a6fe4639c31,QuanLyHopDongTKCM,,,,,ducna.emc@vpi.pvn.vn,,eff29e7d-816a-49d3-9d8e-b9d199d12441
+779f77de-d9bc-46ea-8622-4e3c24a9f1e7,CoreMemberIncomManagement v.7,,,,,ducna.emc@vpi.pvn.vn,,eff29e7d-816a-49d3-9d8e-b9d199d12441
+a233a225-a51a-46be-8a6d-6013eccde304,CoreMemberTimeline v4.0,,,,,ducna.emc@vpi.pvn.vn,,eff29e7d-816a-49d3-9d8e-b9d199d12441
+c7067318-f562-4cd5-8ef8-02be9a7c0aa8,[App] CoreMemberTimeline v4.0,,,,,ducna.emc@vpi.pvn.vn,,eff29e7d-816a-49d3-9d8e-b9d199d12441
+932e1b4d-d112-4852-8155-1b83b238c1a6,,,,,,,,
+1974a4ab-391f-4854-b23e-f097411ba4c3,,,,,,,,
+03007ba7-78c1-442e-8f34-0893249f1727,,,,,,,,
+89e080e9-1a3b-4efe-b302-e6c2f04d3e9b,,,,,,,,
+04376cb3-f4b5-4b89-83bd-e9edcc14be32,,,,,,,,
+2e25f4f7-2e78-4341-9663-c784a4eb4c33,QuanLyHopDongTKCM,,,,,,,
+82ae411b-c08f-44e5-a8ed-7cc73b45f4a4,CoreMemberIncomManagement v.7,,,,,,,
+b90ff411-db03-4873-9ae3-146bbe790b95,CoreMemberTimeline v4.0,,,,,,,
+6d31ed58-6003-4e81-bd2b-a6108b8857eb,Qun l cng vic,,,,,,,
+2f086586-ff83-4f33-86c5-1b2a2f8bac80,dbKPI,,,,,huentt.pac@vpi.pvn.vn,,5d996fd6-f915-4319-a036-e3a6d175d8cf
+825ac920-89c1-44bd-bd68-42c9a900b37f,kpi2022_28322,,,,,huentt.pac@vpi.pvn.vn,,5d996fd6-f915-4319-a036-e3a6d175d8cf
+28fb9a38-55fa-42d0-b343-b1c906f9bd1a,dbKPI,,,,,,,
+bec49ee1-e366-4ab2-8586-46fc9bb343d7,kpi2022_28322,,,,,,,
+1046568d-012e-4430-841c-7f8ae61ccc6d,WFH,,,,,,,
+98f6a24d-f90f-4025-8b09-fb76e3d03252,Bác cáo sản lượng cấp khí,,,,,hungpvn@vpi.pvn.vn,,510cc4b7-5d84-4d6b-aeab-f0547a72da79
+e37be676-cd8e-49bf-ad7a-ec78e9d5f047,,,,,,,,
+daa599c8-66d8-4c03-9627-fefc2a0999c7,,,,,,,,
+ae127728-b4f2-4b02-9d3b-4adaabd0fbdc,khach hang,,,,,,,
+4067b1fe-863b-4793-93f4-b9bf61d866cf,abc,,,,,,,

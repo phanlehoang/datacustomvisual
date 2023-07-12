@@ -1,4 +1,4 @@
-﻿workspace_id,item_id,user_id,email,display_name,access_right,field
+﻿workspace_id,item_id,user_id,email,display_name,access_right,item_type
 d7122ad9-7504-4c14-9606-6ca09f77f7d5,7c1c2f31-ff8b-4762-af66-5086cda58f4a,a921224f-4eb9-42ec-b938-7f6f8d84c68a,vyvt@vpi.pvn.vn,Vu Tuyet Vy,ReadWriteReshare,kustodatabase
 d7122ad9-7504-4c14-9606-6ca09f77f7d5,7c1c2f31-ff8b-4762-af66-5086cda58f4a,eff29e7d-816a-49d3-9d8e-b9d199d12441,ducna.emc@vpi.pvn.vn,Nhu Anh Duc,ReadWriteReshare,kustodatabase
 d7122ad9-7504-4c14-9606-6ca09f77f7d5,7c1c2f31-ff8b-4762-af66-5086cda58f4a,bbe12040-d994-405b-81f0-d025b0fdc396,anhln@vpi.pvn.vn,Le Ngoc Anh,ReadWriteReshare,kustodatabase
